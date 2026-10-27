@@ -83,12 +83,14 @@ with skills_tab:
         "Skills": ["Algorithmic Problem-Solving",
                    "Physics",
                    "Mahematics",
+                   "Software Engineering",
                    "Embedded Systems",
                    "Electronics"],
         "Description": ["Optimization techniques learned from 560+ leetcode problems",
                         "Specialized in Physics in Philippine Science High School\n\n"
                         "Currently reading University Physics by Hugh D. Young, Roger A. Freedman, Francis W. Sears, and Mark W. Zemansky",
                         "Byproduct of Physics and Computer Science mathematical and theoretical natures. Further refined by leetcode mathematical optimizations",
+                        "Architectural Expertise and Industry Standard Software Development Culture",
                         "Slight knowledge around Raspberry Pi Pico handling and basic sensors",
                         "Miniscule skills in circuitry with and without microcontrollers"]
     }
