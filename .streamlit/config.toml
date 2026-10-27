@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#06B6D4"          # Glowing Neon Cyan accent
+backgroundColor = "#0B131F"       # Deep Abyss Navy background
+secondaryBackgroundColor = "#162235" # Steel Blue (sidebar/cards)
+textColor = "#ECFEFF"             # Cool Ice Cyan text
+font = "sans serif"
